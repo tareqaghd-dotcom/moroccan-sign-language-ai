@@ -216,3 +216,16 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# Environnement Python
+.venv/
+
+# Données lourdes
+data/asl/videos/
+data/asl/poses/
+
+# Résultats / modèles
+checkpoints/
+results/
+
+# Vidéos
+*.mp4
